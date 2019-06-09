@@ -6,4 +6,4 @@ This project attempts to provide a hands-on experience on Spring framework and u
 - <B>Building an Application with Spring Boot</B> (https://spring.io/guides/gs/spring-boot/)
 - <B>Using OWASP dependency-check-maven plugin for Vulnerabilities Check on included libraries</B> (./target/dependency-check-report.html)
 - <B>Developing Your First Spring Boot Application</B> (https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html)
-- <B>Building an Application to demonstrate Spring Beans Life Cycle with Maven</B>
+- <B>Building an Application to demonstrate Spring Beans Life Cycle with Maven build</B>
